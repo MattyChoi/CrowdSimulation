@@ -1,6 +1,4 @@
 //Vector Library
-//CSCI 5611 Vector 2 Library [Example]
-// Stephen J. Guy <sjguy@umn.edu>
 
 public class Vec2 {
   public float x, y;
