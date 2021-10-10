@@ -2,7 +2,7 @@
 I used Processing to simulate multiple agents navigating an obstacle-filled environment using A* search on a graph of networks created through probabilistic roadmap (PRM).
 
 ## Demos
-Solarized dark             |  Solarized Ocean
+Press `space` to start simulation and mouse left click to assign a singular goal for multiple agents     |  Press `space` to pause the simulation, mouse right click to remove and add obstacles, and `r` key to recreate the environment
 :-------------------------:|:-------------------------:
 ![part1](https://user-images.githubusercontent.com/77593187/136684890-053cc9ee-abc5-4442-9d85-039ab7518a74.gif) | ![part2](https://user-images.githubusercontent.com/77593187/136684893-95ff4eba-df2c-4689-8600-914b5f7b1073.gif)
 
