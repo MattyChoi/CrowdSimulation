@@ -2,7 +2,9 @@
 I used Processing to simulate multiple agents navigating an obstacle-filled environment using A* search on a graph of networks created through probabilistic roadmap (PRM).
 
 ## Demos
-![part1](https://user-images.githubusercontent.com/77593187/136684890-053cc9ee-abc5-4442-9d85-039ab7518a74.gif) ![part2](https://user-images.githubusercontent.com/77593187/136684893-95ff4eba-df2c-4689-8600-914b5f7b1073.gif)
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![part1](https://user-images.githubusercontent.com/77593187/136684890-053cc9ee-abc5-4442-9d85-039ab7518a74.gif) | ![part2](https://user-images.githubusercontent.com/77593187/136684893-95ff4eba-df2c-4689-8600-914b5f7b1073.gif)
 
 ## Commands
 Users can interact with our simulation in a variety of ways"
